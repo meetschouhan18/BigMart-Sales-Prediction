@@ -9,4 +9,4 @@ Since the data is cleaned, Label and One hot encoding is perfomed on the dataset
 
 After encoding, data is feed to Linear Regression model of Polynomial Degree 3 with the help of Polynomial Features.
 
-After training is done, an accuracy of 79% is obtained
+After training is done, an accuracy of 79% is obtained.
